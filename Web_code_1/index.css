@@ -1,0 +1,32 @@
+
+.container1{
+    background-color: bisque;
+    width: 100VW;
+    margin:10px;
+}
+.container2{
+    text-align: center;
+}
+
+.container3{
+    margin:10px;
+    padding: 5px;
+}
+
+.inputElS{
+    margin:15px;
+}
+
+th{
+color:red;
+margin: 15px;
+padding: 15px;
+border: solid 3px rgb(33, 33, 34);
+
+}
+table{
+    border: solid 2px;
+}
+thead{
+    border:2px solid rgb(211, 52, 52);
+}
